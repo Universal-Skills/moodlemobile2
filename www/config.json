@@ -8,6 +8,7 @@
     "languages": {"ar": "عربي", "en": "English"},
     "wsservice" : "universal_skills_mobile_app",
     "wsextservice" : "local_mobile",
+    "presets": {"url": "http://universal-skills.com/lms", "username": ""},
     "gcmpn": "694767596569",
     "customurlscheme": "universalskillsmobile"
 }
