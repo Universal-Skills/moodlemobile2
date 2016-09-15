@@ -19,7 +19,7 @@
     "loginbutton": "Login!",
     "logininsiterequired": "You need to log in to the site in a browser window.",
     "mobileservicesnotenabled": "Mobile Services are not enabled in your site. Please, contact your site administrator if you think mobile access should be enabled.",
-    "newsitedescription": "Please enter the URL of your Moodle site. Note that it might not be configured to work with this app.",
+    "newsitedescription": "Please enter the URL of your site. Note that it might not be configured to work with this app.",
     "notloggedin": "You need to be logged in.",
     "password": "Password",
     "passwordrequired": "Password required",
